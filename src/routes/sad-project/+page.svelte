@@ -392,7 +392,7 @@
 			disabled={!isValid}>Submit</button
 		>
 	</div>
-	<div class="py-12 w-full flex-shrink-0 px-5 h-screen overflow-y-auto overflow-x-visible relative">
+	<div class="py-12 w-full flex-shrink-0 px-5 lg:h-screen lg:overflow-y-auto relative">
 		<div class="w-full font-bold text-xl mb-4">List of projects</div>
 		<div
 			class=" mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2 content-start gap-5"
